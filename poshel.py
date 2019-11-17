@@ -1,1 +1,1 @@
-print('«My first git-repo»')
+print('«My first git-repo»')  # https://github.com/igordanilov692002/---.git
